@@ -1,0 +1,4 @@
+[project]
+name = Queen's Blog
+[servers.ghpages]
+target = ghpages://Queen-codes/Queen-s-Blog
